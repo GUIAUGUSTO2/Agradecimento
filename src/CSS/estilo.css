@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.cabecalho{
+    background-color:#FFE3EC;
+    justify-content: center;
+    display: flex;
+    
+}
+.texto{
+    background-color:#FFE3EC;
+    display: flex;
+    justify-content: center;
+    word-wrap: break-word;
+}
+body{
+    background-color: #FFE3EC;
+    font-family: 'Pangolin';
+}
